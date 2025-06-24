@@ -8,6 +8,7 @@ public class Pro{
  System.out.println("Notas: "+ a+b "es");
  System.out.println("hola como estas" + nom );
  System.out.printl("Carnet :" + car)
+System.out.printl("Saludo profesor Cris");
 
     }
    
